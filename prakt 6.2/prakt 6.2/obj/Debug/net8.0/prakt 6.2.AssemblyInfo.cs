@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("prakt 6.2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Prakt 6.2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("prakt 6.2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("prakt 6.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b61d3a7a86c4b1deca06e66204330de8cde2f28")]
+[assembly: System.Reflection.AssemblyProductAttribute("Prakt 6.2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Prakt 6.2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

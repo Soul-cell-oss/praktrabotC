@@ -1,47 +1,40 @@
 ﻿using System;
 
-public class Program
+void CheckNumber(int number)
 {
+    if (number % 2 == 0)
+        throw new ArithmeticException("Чётное число");
+    else
+        throw new OverflowException("Нечётное число");
+}
 
-    public static void CheckNumber(int number)
+
+while (true)
+{
+    try
     {
-        if (number % 2 == 0)
+        Console.Write("Введите число: ");
+        int num = Convert.ToInt32(Console.ReadLine());
+
+        try
         {
-            throw new ArithmeticException("Четное число: " + number);
+            CheckNumber(num);
         }
-        else
+
+        catch (OverflowException ex)
         {
-            throw new OverflowException("Нечетное число: " + number);
+            Console.WriteLine("число нечётное");
         }
+
+        catch (ArithmeticException ex)
+        {
+            Console.WriteLine("число чётное");
+        }
+      
     }
-
-    public static void Main(string[] args)
+    catch (FormatException)
     {
-        while (true)
-        {
-            Console.WriteLine("Введите целое число (или любой другой символ для выхода):");
-            string input = Console.ReadLine();
-
-
-            if (int.TryParse(input, out int number))
-            {
-                try
-                {
-   
-                    CheckNumber(number);
-                }
-                catch (ArithmeticException ex)
-                {
-                    Console.WriteLine("Ошибка: " + ex.Message);
-                }
-
-            }
-            else
-            {
-
-                Console.WriteLine("Выход из программы.");
-                break;
-            }
-        }
+        Console.WriteLine("Выход из программы");
+        break;
     }
 }

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "prakt 6.2/1.0.0": {
+      "Prakt 6.2/1.0.0": {
         "runtime": {
-          "prakt 6.2.dll": {}
+          "Prakt 6.2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "prakt 6.2/1.0.0": {
+    "Prakt 6.2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

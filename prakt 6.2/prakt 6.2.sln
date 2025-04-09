@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prakt 6.2", "prakt 6.2\prakt 6.2.csproj", "{2D9094DE-D483-4592-93E6-7CDB9696ABD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prakt 6.2", "Prakt 6.2\Prakt 6.2.csproj", "{164D23D5-9F9C-430B-9F19-8EBCD479EA9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2D9094DE-D483-4592-93E6-7CDB9696ABD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D9094DE-D483-4592-93E6-7CDB9696ABD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D9094DE-D483-4592-93E6-7CDB9696ABD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D9094DE-D483-4592-93E6-7CDB9696ABD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164D23D5-9F9C-430B-9F19-8EBCD479EA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164D23D5-9F9C-430B-9F19-8EBCD479EA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164D23D5-9F9C-430B-9F19-8EBCD479EA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164D23D5-9F9C-430B-9F19-8EBCD479EA9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {264254A5-CBF1-4436-9C05-1A05BEE8E2FF}
+		SolutionGuid = {8DC35090-914B-44B6-94F6-296F1A04CDAD}
 	EndGlobalSection
 EndGlobal
