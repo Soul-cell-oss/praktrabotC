@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Prakt8.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E690B0A4-5C9D-42A4-9CEE-BB4AD3D0913C}|Prakt8.1\\Prakt8.1.csproj|c:\\users\\user\\source\\repos\\prakt8.1\\prakt8.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E690B0A4-5C9D-42A4-9CEE-BB4AD3D0913C}|Prakt8.1\\Prakt8.1.csproj|solutionrelative:prakt8.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Prakt8.1\\Prakt8.1\\Program.cs",
+              "RelativeDocumentMoniker": "Prakt8.1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Prakt8.1\\Prakt8.1\\Program.cs*",
+              "RelativeToolTip": "Prakt8.1\\Program.cs*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:09:06.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

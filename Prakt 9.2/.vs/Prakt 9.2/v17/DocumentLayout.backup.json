@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\praktrabotC\\Prakt 9.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D65BDC60-DAAD-44C8-97BA-D56157F97AA1}|Prakt 9.2\\Prakt 9.2.csproj|c:\\users\\user\\desktop\\praktrabotc\\prakt 9.2\\prakt 9.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65BDC60-DAAD-44C8-97BA-D56157F97AA1}|Prakt 9.2\\Prakt 9.2.csproj|solutionrelative:prakt 9.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\praktrabotC\\Prakt 9.2\\Prakt 9.2\\Program.cs",
+              "RelativeDocumentMoniker": "Prakt 9.2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\praktrabotC\\Prakt 9.2\\Prakt 9.2\\Program.cs*",
+              "RelativeToolTip": "Prakt 9.2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:04:26.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
