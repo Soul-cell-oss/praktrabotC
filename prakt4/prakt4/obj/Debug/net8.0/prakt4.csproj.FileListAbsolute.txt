@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\bin\Debug\net8.0\prakt4.exe
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\bin\Debug\net8.0\prakt4.deps.json
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\bin\Debug\net8.0\prakt4.runtimeconfig.json
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\bin\Debug\net8.0\prakt4.dll
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\bin\Debug\net8.0\prakt4.pdb
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\obj\Debug\net8.0\prakt4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\obj\Debug\net8.0\prakt4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\obj\Debug\net8.0\prakt4.AssemblyInfo.cs
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\obj\Debug\net8.0\prakt4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\obj\Debug\net8.0\prakt4.dll
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\obj\Debug\net8.0\refint\prakt4.dll
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\obj\Debug\net8.0\prakt4.pdb
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\obj\Debug\net8.0\prakt4.genruntimeconfig.cache
+C:\Users\User\Desktop\praktrabotC\prakt4\prakt4\obj\Debug\net8.0\ref\prakt4.dll
